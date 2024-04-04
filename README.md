@@ -1,1 +1,1 @@
-# Generative-AI-Face_Recognition_Attendance_System
+# face_recognition_project
